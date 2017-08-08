@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/notosanstc.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/cwtexming.css">
+	<link rel="stylesheet" href="css/style.css">
+	<title>各縣市重要資料集</title>
+</head>
+<body>
+	<header>
+		<nav class="navbar navbar-toggleable-md navbar-light bg-faded fixed-top ">
+		<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<a class="navbar-brand" >各縣市重要資料集</a>
+		<div class="collapse navbar-collapse" id="navbarNavDropdown">
+			<ul class="navbar-nav">
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle"  data-toggle="dropdown">所有資料集</a>
+					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+						<a class="dropdown-item datasheet" data-key="0" href="#">藝文活動據點與訊息清冊</a>
+						<a class="dropdown-item datasheet" data-key="1" href="#">觀光旅遊景點</a>
+						<a class="dropdown-item datasheet" data-key="2" href="#">廠商登記清冊</a>
+						<a class="dropdown-item datasheet" data-key="3" href="#">停車場與停車位(即時資料)</a>
+						<a class="dropdown-item datasheet" data-key="4" href="#">自行車道清冊</a>
+						<a class="dropdown-item datasheet" data-key="5" href="#">自行車租賃站與即時資訊(即時資料)</a>
+						<a class="dropdown-item datasheet" data-key="6" href="#">寺廟教會名冊</a>
+						<a class="dropdown-item datasheet" data-key="7" href="#">加油氣站名冊</a>
+						<a class="dropdown-item datasheet" data-key="8" href="#">公告土地現值及地價清冊</a>
+					</div>
+				</li>
+			</ul>
+		</div>
+		</nav>
+		<div id="tools">
+			<div class="btn-group" role="group" aria-label="Basic example">
+				<button type="button" class="btn btn-secondary open-all">全部展開</button>
+				<button type="button" class="btn btn-secondary close-all">全部收合</button>
+			</div><br>
+		</div>
+	</header>
+	<div id="svg">載入中...</div>
+	<footer>
+
+	</footer>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.5.0/dist/svg-pan-zoom.min.js"></script>
+	<script src="js/all.js"></script>
+</body>
+</html>

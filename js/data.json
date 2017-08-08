@@ -1,0 +1,619 @@
+[
+	{
+		"name": "藝文活動據點與訊息清冊",
+		"children": [
+			{
+				"name": "文化局",
+				"children": [
+					{"name": "臺北市"},
+					{"name": "新北市"},
+					{"name": "桃園市"},
+					{"name": "新竹市"},
+					{"name": "臺南市"},
+					{"name": "臺中市"},
+					{"name": "高雄市"},
+					{"name": "南投縣"},
+					{"name": "臺東縣"},
+					{"name": "嘉義市"}
+				]
+			},
+			{
+				"name": "屯區藝文中心",
+				"children": [
+					{"name": "臺中市"}
+				]
+			},
+			{
+				"name": "觀光處",
+				"children": [
+					{"name": "南投縣"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "宜蘭縣"},
+					{"name": "新竹縣"},
+					{"name": "金門縣"},
+					{"name": "屏東縣"},
+					{"name": "基隆市"},
+					{"name": "苗栗縣"},
+					{"name": "彰化縣"},
+					{"name": "嘉義縣"},
+					{"name": "花蓮縣"},
+					{"name": "澎湖縣"},
+					{"name": "連江縣"}
+				]
+			},
+			{
+				"name": "資料局處不明",
+				"style": "danger",
+				"children": [
+					{"name": "雲林縣"}
+				]
+			}
+		]
+	},
+	{
+		"name": "觀光旅遊景點",
+		"children": [
+			{
+				"name": "產業發展局",
+				"children": [
+					{"name": "臺北市"}
+				]
+			},
+			{
+				"name": "觀光傳播局",
+				"children": [
+					{"name": "臺北市"}
+				]
+			},
+			{
+				"name": "觀光傳播處",
+				"children": [
+					{"name": "屏東縣"}
+				]
+			},
+			{
+				"name": "文化局",
+				"children": [
+					{"name": "臺北市"},
+					{"name": "新北市"},
+					{"name": "桃園市"},
+					{"name": "臺南市"},
+					{"name": "高雄市"}
+				]
+			},
+			{
+				"name": "觀光旅遊局",
+				"children": [
+					{"name": "新北市"},
+					{"name": "桃園市"},
+					{"name": "臺南市"},
+					{"name": "臺中市"}
+				]
+			},
+			{
+				"name": "觀光旅遊處",
+				"children": [
+					{"name": "臺東縣"}
+				]
+			},
+			{
+				"name": "城市行銷處",
+				"children": [
+					{"name": "新竹市"}
+				]
+			},
+			{
+				"name": "工商旅遊處",
+				"children": [
+					{"name": "宜蘭縣"}
+				]
+			},
+			{
+				"name": "交通旅遊處",
+				"children": [
+					{"name": "新竹縣"}
+				]
+			},
+			{
+				"name": "觀光局",
+				"children": [
+					{"name": "高雄市"},
+					{"name": "嘉義縣"}
+				]
+			},
+			{
+				"name": "觀光處",
+				"children": [
+					{"name": "金門縣"},
+					{"name": "南投縣"}
+				]
+			},
+			{
+				"name": "原住民事務委員會",
+				"children": [
+					{"name": "高雄市"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "基隆市"},
+					{"name": "苗栗縣"},
+					{"name": "彰化縣"},
+					{"name": "花蓮縣"},
+					{"name": "澎湖縣"},
+					{"name": "連江縣"}
+				]
+			},
+			{
+				"name": "資料局處不明",
+				"style": "danger",
+				"children": [
+					{"name": "雲林縣"},
+					{"name": "嘉義市"}
+				]
+			}
+		]
+	},
+	{
+		"name": "廠商登記清冊",
+		"children": [
+			{
+				"name": "產業發展局",
+				"children": [
+					{"name": "臺北市"}
+				]
+			},
+			{
+				"name": "經濟發展局",
+				"children": [
+					{"name": "新北市"},
+					{"name": "桃園市"},
+					{"name": "臺南市"},
+					{"name": "臺中市"}
+				]
+			},
+			{
+				"name": "產業發展處",
+				"children": [
+					{"name": "新竹市"},
+					{"name": "高雄市"}
+				]
+			},
+			{
+				"name": "建設處",
+				"children": [
+					{"name": "澎湖縣"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "宜蘭縣"},
+					{"name": "新竹縣"},
+					{"name": "金門縣"},
+					{"name": "南投縣"},
+					{"name": "臺東縣"},
+					{"name": "屏東縣"},
+					{"name": "基隆市"},
+					{"name": "苗栗縣"},
+					{"name": "彰化縣"},
+					{"name": "嘉義縣"},
+					{"name": "嘉義市"},
+					{"name": "花蓮縣"},
+					{"name": "連江縣"}
+				]
+			},
+			{
+				"name": "資料局處不明",
+				"style": "danger",
+				"children": [
+					{"name": "雲林縣"}
+				]
+			}
+		]
+	},
+	{
+		"name": "停車場與停車位(即時資料)",
+		"children": [
+			{
+				"name": "交通局",
+				"children": [
+					{"name": "臺北市"},
+					{"name": "新北市"},
+					{"name": "桃園市"},
+					{"name": "臺南市"},
+					{"name": "臺中市"},
+					{"name": "高雄市"}
+				]
+			},
+			{
+				"name": "交通處",
+				"children": [
+					{"name": "新竹市"}
+				]
+			},
+			{
+				"name": "教育局",
+				"children": [
+					{"name": "宜蘭縣"}
+				]
+			},
+			{
+				"name": "交通旅遊處",
+				"children": [
+					{"name": "新竹縣"},
+					{"name": "基隆市"}
+				]
+			},
+			{
+				"name": "工務處",
+				"children": [
+					{"name": "彰化縣"}
+				]
+			},
+			{
+				"name": "交通觀光處",
+				"children": [
+					{"name": "嘉義市"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "金門縣"},
+					{"name": "南投縣"},
+					{"name": "臺東縣"},
+					{"name": "屏東縣"},
+					{"name": "苗栗縣"},
+					{"name": "花蓮縣"},
+					{"name": "澎湖縣"},
+					{"name": "連江縣"}
+				]
+			},
+			{
+				"name": "資料局處不明",
+				"style": "danger",
+				"children": [
+					{"name": "雲林縣"},
+					{"name": "嘉義縣"}
+				]
+			}
+		]
+	},
+	{
+		"name": "自行車道清冊",
+		"children": [
+			{
+				"name": "交通局",
+				"children": [
+					{"name": "臺北市"},
+					{"name": "臺南市"},
+					{"name": "臺中市"}
+				]
+			},
+			{
+				"name": "工務局",
+				"children": [
+					{"name": "臺北市"},
+					{"name": "高雄市"}
+				]
+			},
+			{
+				"name": "水利局",
+				"children": [
+					{"name": "新北市"}
+				]
+			},
+			{
+				"name": "水務局",
+				"children": [
+					{"name": "桃園市"}
+				]
+			},
+			{
+				"name": "交通處",
+				"children": [
+					{"name": "新竹市"}
+				]
+			},
+			{
+				"name": "觀光旅遊局",
+				"children": [
+					{"name": "臺中市"}
+				]
+			},
+			{
+				"name": "城市暨觀光發展處",
+				"children": [
+					{"name": "彰化縣"}
+				]
+			},
+			{
+				"name": "交通觀光處",
+				"children": [
+					{"name": "嘉義市"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "宜蘭縣"},
+					{"name": "新竹縣"},
+					{"name": "金門縣"},
+					{"name": "南投縣"},
+					{"name": "臺東縣"},
+					{"name": "屏東縣"},
+					{"name": "基隆市"},
+					{"name": "苗栗縣"},
+					{"name": "嘉義縣"},
+					{"name": "花蓮縣"},
+					{"name": "澎湖縣"},
+					{"name": "連江縣"}
+				]
+			},
+			{
+				"name": "資料局處不明",
+				"style": "danger",
+				"children": [
+					{"name": "雲林縣"}
+				]
+			}
+		]
+	},
+	{
+		"name": "自行車租賃站與即時資訊(即時資料)",
+		"children": [
+			{
+				"name": "交通局",
+				"children": [
+					{"name": "臺北市"},
+					{"name": "新北市"},
+					{"name": "桃園市"},
+					{"name": "臺南市"},
+					{"name": "臺中市"}
+				]
+			},
+			{
+				"name": "水利局",
+				"children": [
+					{"name": "新北市"}
+				]
+			},
+			{
+				"name": "交通處",
+				"children": [
+					{"name": "新竹市"}
+				]
+			},
+			{
+				"name": "環境保護局",
+				"children": [
+					{"name": "高雄市"},
+					{"name": "屏東縣"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "宜蘭縣"},
+					{"name": "新竹縣"},
+					{"name": "金門縣"},
+					{"name": "南投縣"},
+					{"name": "臺東縣"},
+					{"name": "基隆市"},
+					{"name": "苗栗縣"},
+					{"name": "彰化縣"},
+					{"name": "嘉義縣"},
+					{"name": "嘉義市"},
+					{"name": "花蓮縣"},
+					{"name": "澎湖縣"},
+					{"name": "連江縣"}
+				]
+			},
+			{
+				"name": "資料局處不明",
+				"style": "danger",
+				"children": [
+					{"name": "雲林縣"}
+				]
+			}
+		]
+	},
+	{
+		"name": "寺廟教會名冊",
+		"children": [
+			{
+				"name": "民政局",
+				"children": [
+					{"name": "臺北市"},
+					{"name": "新北市"},
+					{"name": "桃園市"},
+					{"name": "臺南市"},
+					{"name": "宜蘭縣"},
+					{"name": "新竹縣"},
+					{"name": "臺中市"}
+				]
+			},
+			{
+				"name": "民政處",
+				"children": [
+					{"name": "新竹市"},
+					{"name": "彰化縣"},
+					{"name": "嘉義市"}
+				]
+			},
+			{
+				"name": "大社區公所",
+				"children": [
+					{"name": "高雄市"}
+				]
+			},
+			{
+				"name": "旗山區公所",
+				"children": [
+					{"name": "高雄市"}
+				]
+			},
+			{
+				"name": "文化處",
+				"children": [
+					{"name": "臺東縣"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "金門縣"},
+					{"name": "南投縣"},
+					{"name": "基隆市"},
+					{"name": "苗栗縣"},
+					{"name": "雲林縣"},
+					{"name": "澎湖縣"},
+					{"name": "連江縣"}
+				]
+			},
+			{
+				"name": "資料局處不明",
+				"style": "danger",
+				"children": [
+					{"name": "嘉義縣"},
+					{"name": "花蓮縣"}
+				]
+			}
+		]
+	},
+	{
+		"name": "加油氣站名冊",
+		"children": [
+			{
+				"name": "產業發展局",
+				"children": [
+					{"name": "臺北市"}
+				]
+			},
+			{
+				"name": "經濟發展局",
+				"children": [
+					{"name": "新北市"},
+					{"name": "桃園市"},
+					{"name": "臺中市"}
+				]
+			},
+			{
+				"name": "產業發產處",
+				"children": [
+					{"name": "新竹市"}
+				]
+			},
+			{
+				"name": "環境保護局",
+				"children": [
+					{"name": "宜蘭縣"}
+				]
+			},
+			{
+				"name": "國際產業發展處",
+				"children": [
+					{"name": "新竹縣"}
+				]
+			},
+			{
+				"name": "建設處",
+				"children": [
+					{"name": "嘉義市"},
+					{"name": "澎湖縣"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "臺南市"},
+					{"name": "高雄市"},
+					{"name": "金門縣"},
+					{"name": "南投縣"},
+					{"name": "臺東縣"},
+					{"name": "屏東縣"},
+					{"name": "基隆市"},
+					{"name": "苗栗縣"},
+					{"name": "彰化縣"},
+					{"name": "花蓮縣"},
+					{"name": "連江縣"}
+				]
+			},
+			{
+				"name": "資料局處不明",
+				"style": "danger",
+				"children": [
+					{"name": "雲林縣"}
+				]
+			}
+		]
+	},
+	{
+		"name": "公告土地現值及地價清冊",
+		"children": [
+			{
+				"name": "地政局",
+				"children": [
+					{"name": "臺北市"},
+					{"name": "新北市"},
+					{"name": "桃園市"},
+					{"name": "臺南市"},
+					{"name": "臺中市"},
+					{"name": "高雄市"}
+				]
+			},
+			{
+				"name": "地政處",
+				"children": [
+					{"name": "新竹市"},
+					{"name": "南投縣"},
+					{"name": "基隆市"},
+					{"name": "彰化縣"}
+				]
+			},
+			{
+				"name": "財政處",
+				"children": [
+					{"name": "澎湖縣"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "宜蘭縣"},
+					{"name": "新竹縣"},
+					{"name": "金門縣"},
+					{"name": "臺東縣"},
+					{"name": "屏東縣"},
+					{"name": "苗栗縣"},
+					{"name": "嘉義縣"},
+					{"name": "嘉義市"},
+					{"name": "花蓮縣"},
+					{"name": "連江縣"}
+				]
+			},
+			{
+				"name": "資料局處不明",
+				"style": "danger",
+				"children": [
+					{"name": "雲林縣"}
+				]
+			}
+		]
+	}
+]
