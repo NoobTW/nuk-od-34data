@@ -1624,5 +1624,267 @@
 				]
 			}
 		]
+	},{
+		"name": "地方政府歲入歲出資料",
+		"children": [
+			{
+				"name": "主計處",
+				"children": [
+					{"name": "台北市"},
+					{"name": "新北市"},
+					{"name": "桃園市"},
+					{"name": "新竹市"},
+					{"name": "台南市"},
+					{"name": "台中市"},
+					{"name": "彰化縣"}
+				]
+			},
+			{
+				"name": "地方稅務局",
+				"children": [
+					{"name": "桃園市"}
+				]
+			},
+			{
+				"name": "財政局",
+				"children": [
+					{"name": "高雄市"}
+				]
+			},
+			{
+				"name": "財政處",
+				"children": [
+					{"name": "嘉義市"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "宜蘭縣"},
+					{"name": "新竹縣"},
+					{"name": "金門縣"},
+					{"name": "南投縣"},
+					{"name": "台東縣"},
+					{"name": "屏東縣"},
+					{"name": "基隆市"},
+					{"name": "苗栗縣"},
+					{"name": "嘉義縣"},
+					{"name": "花蓮縣"},
+					{"name": "澎湖縣"},
+					{"name": "連江縣"}
+				]
+			},{
+				"name": "資料局處不明",
+				"style": "danger",
+				"children": [
+					{"name": "雲林縣"}
+				]
+			}
+		]
+	},
+	{
+		"name": "1999案件通報清冊",
+		"children": [
+			{
+				"name": "研究發展考核委員會",
+				"children": [
+					{"name": "台北市"}
+				]
+			},
+			{
+				"name": "行政處",
+				"children": [
+					{"name": "新竹市"},
+					{"name": "澎湖縣"}
+				]
+			},
+			{
+				"name": "計畫處",
+				"children": [
+					{"name": "宜蘭縣"},
+					{"name": "彰化縣"}
+				]
+			},
+			{
+				"name": "綜合發展處",
+				"children": [
+					{"name": "新竹縣"}
+				]
+			},
+			{
+				"name": "研考會",
+				"children": [
+					{"name": "台中市"},
+					{"name": "高雄市"}
+				]
+			},
+			{
+				"name": "研考處",
+				"children": [
+					{"name": "屏東縣"},
+					{"name": "基隆市"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "新北市"},
+					{"name": "桃園市"},
+					{"name": "台南市"},
+					{"name": "金門縣"},
+					{"name": "南投縣"},
+					{"name": "台東縣"},
+					{"name": "苗栗縣"},
+					{"name": "嘉義縣"},
+					{"name": "嘉義市"},
+					{"name": "花蓮縣"},
+					{"name": "連江縣"}
+				]
+			},{
+				"name": "資料局處不明",
+				"style": "danger",
+				"children": [
+					{"name": "雲林縣"}
+				]
+			}
+		]
+	},
+	{
+		"name": "勞工就業服務據點",
+		"children": [
+			{
+				"name": "勞動力重建運用處",
+				"children": [
+					{"name": "台北市"}
+				]
+			},
+			{
+				"name": "就業服務處",
+				"children": [
+					{"name": "桃園市"}
+				]
+			},
+			{
+				"name": "勞工處",
+				"children": [
+					{"name": "新竹市"},
+					{"name": "宜蘭縣"},
+					{"name": "新竹縣"},
+					{"name": "彰化縣"}
+				]
+			},
+			{
+				"name": "勞工局",
+				"children": [
+					{"name": "台南市"},
+					{"name": "台中市"},
+					{"name": "高雄市"}
+				]
+			},
+			{
+				"name": "社會及勞動處",
+				"children": [
+					{"name": "南投縣"}
+				]
+			},
+			{
+				"name": "社會局",
+				"children": [
+					{"name": "嘉義縣"}
+				]
+			},
+			{
+				"name": "社會處",
+				"children": [
+					{"name": "嘉義市"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "新北市"},
+					{"name": "金門縣"},
+					{"name": "台東縣"},
+					{"name": "屏東縣"},
+					{"name": "基隆市"},
+					{"name": "苗栗縣"},
+					{"name": "雲林縣"},
+					{"name": "花蓮縣"},
+					{"name": "澎湖縣"},
+					{"name": "連江縣"}
+				]
+			}
+		]
+	},
+	{
+		"name": "勞工工會名冊",
+		"children": [
+			{
+				"name": "勞動局",
+				"children": [
+					{"name": "台北市"},
+					{"name": "桃園市"}
+				]
+			},
+			{
+				"name": "勞工處",
+				"children": [
+					{"name": "新竹市"},
+					{"name": "宜蘭縣"},
+					{"name": "新竹縣"},
+					{"name": "屏東縣"}
+				]
+			},
+			{
+				"name": "勞工局",
+				"children": [
+					{"name": "台南市"},
+					{"name": "台中市"},
+					{"name": "高雄市"}
+				]
+			},
+			{
+				"name": "社會及發展處",
+				"children": [
+					{"name": "南投縣"}
+				]
+			},
+			{
+				"name": "社會局",
+				"children": [
+					{"name": "嘉義縣"}
+				]
+			},
+			{
+				"name": "社會處",
+				"children": [
+					{"name": "嘉義市"}
+				]
+			},
+			{
+				"name": "無提供",
+				"style": "danger",
+				"children": [
+					{"name": "新北市"},
+					{"name": "金門縣"},
+					{"name": "台東縣"},
+					{"name": "基隆市"},
+					{"name": "苗栗縣"},
+					{"name": "彰化縣"},
+					{"name": "花蓮縣"},
+					{"name": "澎湖縣"},
+					{"name": "連江縣"}
+				]
+			},{
+				"name": "資料局處不明",
+				"style": "danger",
+				"children": [
+					{"name": "雲林縣"}
+				]
+			}
+		]
 	}
 ]
